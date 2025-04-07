@@ -1,3 +1,6 @@
+# Ссылка на выполненный Дашборд
+[Перейти на сайт](https://datalens.yandex/bisz5xxfn8nix)
+
 # Код расчетных показателей дашборда
 
 ## Основные переменные
@@ -25,8 +28,6 @@ DATEADD('month', [full_months_available], [course_opened_date])
 
 ---
 
-## Метрики продления
-
 ### `extensions_count`
 ```sql
 COUNTD(
@@ -52,8 +53,6 @@ IF([total_students] > 0,
 **Комментарий:** процент продления месяца от общего числа студентов.
 
 ---
-
-## Метрика непродления
 
 ### `non_extensions_count`
 ```sql
