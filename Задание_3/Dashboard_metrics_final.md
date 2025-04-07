@@ -1,5 +1,7 @@
 # Ссылка на выполненный Дашборд
 [Перейти на сайт](https://datalens.yandex/bisz5xxfn8nix)
+или
+https://datalens.yandex/bisz5xxfn8nix
 
 # Код расчетных показателей дашборда
 
